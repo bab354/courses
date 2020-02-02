@@ -6,4 +6,6 @@ Steps to set up the class:
 2. In the left side of the screen, paste the text in the "SQL Class - Schema.pdf" document
       - This builds two (simple) tables that we will be using to query off of in the exercises
       - NOTE: The data are fake
-3. In the right side of the screen, you can write queries to answer the questions. Browser-based SQL can be a little finicky when it comes to writing multiple queries so it's best to do it one at a time
+3. In the right side of the screen, you can write queries to answer the questions in "SQL Class - Exercises". Browser-based SQL can be a little finicky when it comes to writing multiple queries so it's best to do it one at a time
+
+4. There are break points in the powerpoint to give the class time to work on the exercises.
